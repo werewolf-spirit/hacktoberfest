@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+### Name : [anubha singh](https://github.com/werewolf-spirit)
+- Place: Bangalore, India
+- Bio: CS Student
+- Github: [werewolf-spirit](https://github.com/werewolf-spirit)
